@@ -1,0 +1,74 @@
+<style>
+body {
+text-align: center;
+background-color: lightblue;
+}
+
+.all{
+border: 2px solid black;
+}
+
+h1 {
+font-size: 5rem;
+color: grey;
+font-family: cursive;
+text-shadow: 3px 0 blanchedalmond;
+
+}
+
+.a {
+background-image: url("img/hightom.jpeg");
+}
+
+.b {
+background-image: url("img/midtom.jpeg");
+}
+
+.c {
+background-image: url("img/lowtom.jpeg");
+}
+
+.d {
+background-image: url("img/bass.jpeg");
+}
+
+.e {
+background-image: url("img/snare.jpeg");
+}
+
+.f {
+background-image: url("img/crash.jpeg");
+}
+
+.g {
+background-image: url("img/kick.jpeg");
+}
+
+.set {
+margin: 10% auto;
+}
+
+.pressed {
+box-shadow: 0 3px 4px 0 #DBEDF3;
+opacity: 0.5;
+}
+
+.drum{
+outline: none;
+border: 5px solid lightcoral;
+border-radius: 2px;
+font-size: medium;
+font-family: 'Arvo', cursive;
+line-height: 2;
+font-weight: 800;
+color: black;
+border-radius: 15px;
+display: inline-block;
+width: 170px;
+height: 200px;
+text-align: center;
+margin: 10px;
+background-color: gray;
+}
+
+</style>
